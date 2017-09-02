@@ -1,0 +1,4 @@
+node_modules/admin-lte/plugins
+node_modules/admin-lte/plugins/*
+www/static/plugins/*
+www/static/plugins
